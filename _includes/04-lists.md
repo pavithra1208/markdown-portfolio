@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+a list of fav things:
+- 🐶
+- 🌈
+- 👶
+
+In order, these are my fave color:
+1.white
+2.black
